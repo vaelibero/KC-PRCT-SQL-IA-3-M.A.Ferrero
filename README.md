@@ -3,6 +3,6 @@ Practica para el módulo de SQL avanzado de Keep Coding en el Bootcamp de IA Ed.
 
 
 ## Estructura y contenido de directorios
-main
-|0_csv           <-- Contiene los csv para la práctica
-|1_DiagEntRel    <-- Contiene el diagrama de entidad relación en varios formatos
+main:
+* 0_csv           <-- Contiene los csv para la práctica
+* 1_DiagEntRel    <-- Contiene el diagrama de entidad relación en varios formatos
