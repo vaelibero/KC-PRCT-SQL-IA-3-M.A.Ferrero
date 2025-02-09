@@ -10,11 +10,29 @@ main:
 * * Diag_ent_rel.png: Para verlo en un formato mas accesible de imágen
 * * ejer1-info.md: Información de como he creado las tablas para el diagrama entidad relacion.
 * 2_CreaBBDD
-* * ejer2-info.md: información de ejecución del ejercicio.
+* * ejer2-info.md: información de ejecución del ejercicio 2.
 * * ejer2.sql: Sql solicitado
 * * ERD-DB-Creada.pgerd: ERD generado por pgadmin para verificar modelo.
 * 3_creaTabla-ivr_detail
-* * ejer3-info.md: Información de ejecución del ejercicio.
+* * ejer3-info.md: Información de ejecución del ejercicio 3.
+* * ejer3.sql: Sql solicitado
+* * ivr_details.csv: Resultados dados en la consulta
 * 4_vdn_aggregation
-* * ejer4-info.md: información de ejecución del ejercicio.
+* * ejer4-info.md: información de ejecución del ejercicio 4.
 * * ejer4.sql: Sql solicitado.
+* 5_doc_type-doc_id
+* * ejer5-info.md: información de ejecución del ejercicio 5.
+* * ejer5.sql: Sql solicitado.
+* * ejer5.csv: Resultados dados en la consulta 
+* 6_Customer_phone
+* * ejer6-info.md: información de ejecución del ejercicio 6
+* * ejer6.sql: Sql solicitado.
+* * ejer6.csv: Resultados dados en la consulta
+* 7_billing_account_id
+* * ejer7-info.md: información de ejecución del ejercicio 7
+* * ejer7.sql: Sql solicitado.
+* * ejer7.csv: Resultados dados en la consulta
+* 8_Customer_phone
+* * ejer8-info.md: información de ejecución del ejercicio 8
+* * ejer8.sql: Sql solicitado.
+* * ejer8.csv: Resultados dados en la consulta
