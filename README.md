@@ -40,6 +40,13 @@ main:
 * 10_Customer_phone
 * * ejer10-info.md: información de ejecución del ejercicio 10
 * * ejer10.sql: Sql solicitado.
-* 11_Customer_phone
+* 11_repeated_phone (incompleto)
 * * ejer11-info.md: información de ejecución del ejercicio 11
 * * ejer11.sql: Sql solicitado.
+* 12_summary (Incompleto)
+* * ejer12-info.md: información de ejecución del ejercicio 11
+* * ejer12.sql: Sql solicitado.
+* 13_funcion
+* * ejer13-info.md
+* * ejer13.sql
+
