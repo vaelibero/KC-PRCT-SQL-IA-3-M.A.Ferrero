@@ -40,10 +40,10 @@ main:
 * 10_Customer_phone
 * * ejer10-info.md: información de ejecución del ejercicio 10
 * * ejer10.sql: Sql solicitado.
-* 11_repeated_phone (incompleto)
+* 11_repeated_phone ( :fearful: incompleto - :sweat: ) entrega parcial
 * * ejer11-info.md: información de ejecución del ejercicio 11
 * * ejer11.sql: Sql solicitado.
-* 12_summary (Incompleto)
+* 12_summary ( :fearful: Incompleto - :sweat: ) entrega parcial
 * * ejer12-info.md: información de ejecución del ejercicio 11
 * * ejer12.sql: Sql solicitado.
 * 13_funcion
